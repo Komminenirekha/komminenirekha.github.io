@@ -427,7 +427,7 @@ Aspiring Salesforce Developer with strong skills in Java, Python, SQL, and CRM t
   <section id="contact">
     <h2>Contact</h2>
     <div class="section-divider"></div>
-    <p>Phone: +91 79012 66761</p>
+    <p>Phone: +91 7901266761</p>
     <p>Email: <a href="mailto:rekhachowdarykommineni@gmail.com">rekhachowdarykommineni@gmail.com</a></p>
     <p>GitHub: <a href="https://github.com/Komminenirekha" target="_blank">github.com/Komminenirekha</a></p>
     <a href="mailto:rekhachowdarykommineni@gmail.com"><button>Get In Touch</button></a>
