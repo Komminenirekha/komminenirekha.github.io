@@ -160,7 +160,7 @@ Aspiring Salesforce Developer with strong skills in Java, Python, SQL, and CRM t
     <h2>Hello, I'm Rekha</h2>
     <p>Salesforce Developer & Administrator | Java, Python, SQL | CRM & Business Process Improvement</p>
     <a href="#contact"><button>Get In Touch</button></a>
-    <a href="https://drive.google.com/file/d/1Q0DM-PQMPTI4l2IZ0i0R84k9PQlFrfBf/view?usp=drive_link">
+    <a href="https://drive.google.com/file/d/1Q6ByY9sOteCIG_781Mjlx1C4InTXsxvY/view?usp=drive_link">
       <button>Download Resume</button>
     </a>
   </section>
@@ -418,7 +418,7 @@ Aspiring Salesforce Developer with strong skills in Java, Python, SQL, and CRM t
       and analytical skills to deliver efficient business process improvements. Passionate about learning 
       and innovation, I aim to create impactful solutions that drive growth and efficiency.
     </p>
-    <a href="https://drive.google.com/file/d/1Q0DM-PQMPTI4l2IZ0i0R84k9PQlFrfBf/view?usp=drive_link" target="_blank">
+    <a href="https://drive.google.com/file/d/1Q6ByY9sOteCIG_781Mjlx1C4InTXsxvY/view?usp=drive_link" target="_blank">
       <button>Download Resume</button>
     </a>
   </section>
@@ -428,9 +428,9 @@ Aspiring Salesforce Developer with strong skills in Java, Python, SQL, and CRM t
     <h2>Contact</h2>
     <div class="section-divider"></div>
     <p>Phone: +91 7901266761</p>
-    <p>Email: <a href="mailto:rekhachowdarykommineni@gmail.com">rekhachowdarykommineni@gmail.com</a></p>
+    <p>Email: <a href="mailto:rekha.kchowdary@gmail.com">rekha.kchowdary@gmail.com</a></p>
     <p>GitHub: <a href="https://github.com/Komminenirekha" target="_blank">github.com/Komminenirekha</a></p>
-    <a href="mailto:rekhachowdarykommineni@gmail.com"><button>Get In Touch</button></a>
+    <a href="mailto:rekha.kchowdary@gmail.com"><button>Get In Touch</button></a>
   </section>
 
   <footer>
