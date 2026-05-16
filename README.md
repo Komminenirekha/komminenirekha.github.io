@@ -184,7 +184,7 @@ Aspiring Salesforce Developer with strong skills in Java, Python, SQL, and CRM t
       <div class="card">
         <h3>MBA – HR & IT</h3>
         <p>Dr. AER MBA College, Sri Venkateswara University (2023–2025)</p>
-        <p>CGPA: 7.62</p>
+        <p>CGPA: 7.30</p>
       </div>
       <div class="card">
         <h3>B.Com – Computer Applications</h3>
