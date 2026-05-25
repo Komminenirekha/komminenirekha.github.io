@@ -160,7 +160,7 @@ Aspiring Salesforce Developer with strong skills in Java, Python, SQL, and CRM t
     <h2>Hello, I'm Rekha</h2>
     <p>Salesforce Developer & Administrator | Java, Python, SQL | CRM & Business Process Improvement</p>
     <a href="#contact"><button>Get In Touch</button></a>
-    <a href="https://drive.google.com/file/d/1Q6ByY9sOteCIG_781Mjlx1C4InTXsxvY/view?usp=drive_link">
+    <a href="https://drive.google.com/file/d/1DiPwuqJXlvCRJlxPl2PHwe4BIoGbTNg4/view?usp=drive_link">
       <button>Download Resume</button>
     </a>
   </section>
@@ -418,7 +418,7 @@ Aspiring Salesforce Developer with strong skills in Java, Python, SQL, and CRM t
       and analytical skills to deliver efficient business process improvements. Passionate about learning 
       and innovation, I aim to create impactful solutions that drive growth and efficiency.
     </p>
-    <a href="https://drive.google.com/file/d/1Q6ByY9sOteCIG_781Mjlx1C4InTXsxvY/view?usp=drive_link" target="_blank">
+    <a href="https://drive.google.com/file/d/1DiPwuqJXlvCRJlxPl2PHwe4BIoGbTNg4/view?usp=drive_link" target="_blank">
       <button>Download Resume</button>
     </a>
   </section>
